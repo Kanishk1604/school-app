@@ -9,8 +9,9 @@ const Footer = () => {
           <div>
             <h3 className="font-bold text-lg mb-4">School Connect</h3>
             <p className="text-gray-600 text-sm">
-              A comprehensive Flutter + Firebase mobile application 
-              for modern school management.
+              {/* A comprehensive Flutter + Firebase mobile application 
+              for modern school management. */}
+              gg 
             </p>
           </div>
           <div>
